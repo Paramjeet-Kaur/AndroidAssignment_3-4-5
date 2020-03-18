@@ -25,11 +25,11 @@ public class Order_Result extends AppCompatActivity {
     }
     public void  Order(View view)
     {
-        String name = order.getText().toString();
-        list.add(name);
+        //String name = orderlist.getText().toString();
+        //list.add(name);
         ArrayAdapter<String> itemsAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, list );
-        list.setAdapter(itemsAdapter);
-        list.setText("");
+        //list.setAdapter(itemsAdapter);
+        //list.setText("");
         itemsAdapter.notifyDataSetChanged();
     }
 
