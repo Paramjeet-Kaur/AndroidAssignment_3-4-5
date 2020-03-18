@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment_3-4-5</string>
+    <string-array name="FoodItems">
+        <item>Choose Your Taste</item>
+        <item>Sandwich</item>
+        <item>Pizza</item>
+        <item>Bread Roll</item>
+        <item>Allo Prontha</item>
+        <item>Veg Burger</item>
+        <item>French Fries</item>
+        <item>Mango Drink</item>
+        <item>Choclate Shake</item>
+        <item>Ice Cream</item>
+        <item>Sweets</item>
+    </string-array>
+</resources>
